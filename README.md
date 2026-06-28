@@ -6,4 +6,4 @@
 <img width="989" height="865" alt="3" src="https://github.com/user-attachments/assets/ff59155b-dcae-4317-98fe-1c940435b041" />
 <img width="1000" height="649" alt="4" src="https://github.com/user-attachments/assets/c7bb0ab0-f933-4c5e-8a16-049671a124d6" />
 历史记录查询
-
+<img width="1528" height="670" alt="6" src="https://github.com/user-attachments/assets/fa798c7e-6a6e-4eb4-a030-4c00f9a866b4" />
